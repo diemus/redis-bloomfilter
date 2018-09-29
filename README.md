@@ -3,7 +3,10 @@
 
 ## Usage:
 
-pip install mmh3
+
+    pip install mmh3
+
+sdaf
 
     conn = redis.Redis(host='127.0.0.1', port=6379, db=0)
     bf = RedisBloomFilter(conn)
